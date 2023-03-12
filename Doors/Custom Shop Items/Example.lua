@@ -14,9 +14,9 @@ local exampleTool = LoadCustomInstance("rbxassetid://11397433017")
 
 -- Create custom shop item
 CustomShop.CreateItem(exampleTool, {
-    Title = "Example Item",
-    Desc = "Example description",
-    Image = "https://cdn.discordapp.com/attachments/1034486774627573821/1035460240352747541/ExampleImage.png",
-    Price = 999,
-    Stack = 1,
+    Title = "Crucifix Plushy",
+    Desc = "Crucifix Plushy?? HOW?",
+    Image = "https://media.discordapp.net/attachments/1082382296411295955/1084501159936540672/Png_5.png",
+    Price = 1,
+    Stack = 69,
 })
